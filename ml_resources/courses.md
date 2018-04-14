@@ -16,4 +16,3 @@ and his [Machine Learning Textbook](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mi
 # Books
 - Ian Goodfellow and Yoshua Bengio and Aaron Courville: [Deep Learning](http://www.deeplearningbook.org/)
 - Andrew G. Barto, Richard S. Sutton, [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning)
-- 
