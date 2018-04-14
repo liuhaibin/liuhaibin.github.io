@@ -4,7 +4,8 @@ and his [Machine Learning Textbook](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mi
 - Professor Yaser S. Abu-Mostafa from Caltech: [Learning from Data](https://work.caltech.edu/telecourse.html).
 - Hal Daumé III [A Course in Machine Learning] (http://ciml.info/)
 - Stanford CS224d: Deep Learning for Natural Language Processing (http://cs224d.stanford.edu/syllabus.html)
-- Hugo Larochelle: [Neural Networks](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html), very good course and tutorial. 
+- Hugo Larochelle: [Neural Networks](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html), very good course and tutorial.
+- Oxford's Deep NLP course (https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 # Tutorials
 - From Google Developers Youtube Channel, 
